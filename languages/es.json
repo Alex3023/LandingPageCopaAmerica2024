@@ -1,0 +1,58 @@
+{
+    "header":{
+        "idioma":"Español",
+        "part":"Partidos",
+        "sort":"Sorteos",
+        "cal":"Calendario",
+        "pre":"Preventa",
+        "grup":"Grupos",
+        "reglas":"Reglamento",
+        "mas":"Más",
+        "vid":"Videos"
+    },
+
+    "import":{
+        "vig":"VIGENTE CAMPEÓN",
+        "sed":"NUESTRAS SEDES",
+        "masc":"MASCOTA"
+    },
+
+    "teams":{
+        "equi":"EQUIPOS",
+        "pe":"PERÚ",
+        "ar":"ARGENTINA",
+        "bol":"BOLIVIA",
+        "chil":"CHILE",
+        "col":"COLOMBIA",
+        "bra": "BRASIL",
+        "ecua":"ECUADOR",
+        "eu":"ESTADOS UNIDOS",
+        "jam":"JAMAICA",
+        "mex":"MEXICO",
+        "pana":"PANAMA",
+        "para":"PARAGUAY",
+        "uru":"URUGUAY",
+        "ven":"VENEZUELA"
+    },
+
+    "estadiums":{
+        "esta":"ESTADIOS",
+        "aper":"Apertura",
+        "fin":"Final",
+        "capa":"Capacidad:"
+    },
+
+    "opi":{
+        "opini":"OPINIONES",
+        "cuadro1":"Como hincha peruano, estoy encantado con la página de la Copa América 2024. Captura perfectamente la pasión del torneo, con detalles increíbles sobre equipos y jugadores. Me emociona especialmente seguir a nuestra selección y sentir el fervor sudamericano a través de esta plataforma. ¡Arriba Perú! Esta página es un tesoro para todos los aficionados al fútbol.",
+        "lugar1":"Lima, Perú",
+        "cuadro2":"Estoy fascinado con la página de la Copa América 2024. Captura la esencia del fútbol sudamericano y me mantiene al día con todo lo relacionado a la Albiceleste. Es la herramienta perfecta para seguir el torneo y apoyar a nuestra selección. ¡Vamos Argentina!",
+        "lugar2":"Buenos Aires, Argentina",
+        "cuadro3":"¡Qué alegría encontrar una página tan completa sobre la Copa América 2024! Como colombiana, me encanta cómo esta plataforma nos acerca a cada detalle del torneo. La información sobre los equipos y jugadores es de primera, y me siento más conectada que nunca con nuestra Tricolor. Estoy segura de que Colombia dará lo mejor en cada partido. ¡Vamos Colombia!",
+        "lugar3":"Bogotá, Colombia"
+    },
+
+    "footer":{
+        "derechos":"Copyright © 2023. Todos los derechos reservados."
+    }
+}

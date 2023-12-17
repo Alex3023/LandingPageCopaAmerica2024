@@ -1,0 +1,58 @@
+{
+    "header":{
+        "idioma":"Français",
+        "part":"Allumettes",
+        "sort":"Cadeaux",
+        "cal":"Calendrier",
+        "pre":"Prévente",
+        "grup":"Groupes",
+        "reglas":"Régulation",
+        "mas":"Plus loin",
+        "vid":"Vidéos"
+    },
+
+    "import":{
+        "vig":"CHAMPION ACTUEL",
+        "sed":"NOTRE SIÈGE",
+        "masc":"MASCOTTE"
+    },
+
+    "teams":{
+        "equi":"ÉQUIPEMENT",
+        "pe":"PÉROU",
+        "ar":"ARGENTINE",
+        "bol":"BOLIVIE",
+        "chil":"CHILE",
+        "col":"LA COLOMBIE",
+        "bra": "BRÉSIL",
+        "ecua":"ÉQUATEUR",
+        "eu":"ÉTATS UNIS",
+        "jam":"JAMAÏQUE",
+        "mex":"MEXIQUE",
+        "pana":"PANAMA",
+        "para":"PARAGUAY",
+        "uru":"URUGUAY",
+        "ven":"VENEZUELA"
+    },
+
+    "estadiums":{
+        "esta":"STADES",
+        "aper":"Ouverture",
+        "fin":"Final",
+        "capa":"Capacité:"
+    },
+
+    "opi":{
+        "opini":"DES AVIS",
+        "cuadro1":"En tant que fan péruvien, je suis ravi de la page Copa América 2024. Elle capture parfaitement la passion du tournoi, avec des détails incroyables sur les équipes et les joueurs. Je suis particulièrement excité de suivre notre équipe et de ressentir la ferveur sud-américaine à travers cette plateforme. Au Pérou! Cette page est un trésor pour tous les fans de football.",
+        "lugar1":"Lima, Pérou",
+        "cuadro2":"Je suis fasciné par la page Copa América 2024. Elle capture l'essence du football sud-américain et me tient au courant de tout ce qui concerne l'Albiceleste. C'est l'outil parfait pour suivre le tournoi et soutenir notre équipe. C'est parti pour l'Argentine !",
+        "lugar2":"Buenos Aires, Argentine",
+        "cuadro3":"Quel bonheur de retrouver une page aussi complète sur la Copa América 2024 ! En tant que Colombien, j'aime la façon dont cette plateforme nous rapproche de chaque détail du tournoi. Les informations sur les équipes et les joueurs sont de premier ordre et je me sens plus que jamais connecté à notre Tricolor. Je suis sûr que la Colombie fera de son mieux à chaque match. Allons en Colombie !",
+        "lugar3":"Bogota, Colombie"
+    },
+
+    "footer":{
+        "derechos":"Copyright © 2023. Tous droits réservés."
+    }
+}

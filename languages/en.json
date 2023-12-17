@@ -1,0 +1,58 @@
+{
+    "header":{
+        "idioma":"English",
+        "part":"Matches",
+        "sort":"Giveaways",
+        "cal":"Calendar",
+        "pre":"Presale",
+        "grup":"Groups",
+        "reglas":"Regulation",
+        "mas":"More",
+        "vid":"Videos"
+    },
+
+    "import":{
+        "vig":"CURRENT CHAMPION",
+        "sed":"OUR HEADQUARTERS",
+        "masc":"PET"
+    },
+
+    "teams":{
+        "equi":"TEAMS",
+        "pe":"PERU",
+        "ar":"ARGENTINA",
+        "bol":"BOLIVIA",
+        "chil":"CHILE",
+        "col":"COLOMBIA",
+        "bra": "BRAZIL",
+        "ecua":"ECUADOR",
+        "eu":"UNITED STATES",
+        "jam":"JAMAICA",
+        "mex":"MEXICO",
+        "pana":"PANAMA",
+        "para":"PARAGUAY",
+        "uru":"URUGUAY",
+        "ven":"VENEZUELA"
+    },
+
+    "estadiums":{
+        "esta":"STADIUMS",
+        "aper":"Opening",
+        "fin":"Final",
+        "capa":"Ability:"
+    },
+
+    "opi":{
+        "opini":"OPINIONS",
+        "cuadro1":"As a Peruvian fan, I am delighted with the Copa América 2024 page. It perfectly captures the passion of the tournament, with incredible details about teams and players. I am especially excited to follow our team and feel the South American fervor through this platform. Come on Peru! This page is a treasure for all football fans.",
+        "lugar1":"Lima, Peru",
+        "cuadro2":"I am fascinated by the Copa América 2024 page. It captures the essence of South American football and keeps me up to date with everything related to the Albiceleste. It is the perfect tool to follow the tournament and support our team. Let's go Argentina!",
+        "lugar2":"Buenos Aires, Argentina",
+        "cuadro3":"What a joy to find such a complete page about the Copa América 2024! As a Colombian, I love how this platform brings us closer to every detail of the tournament. The information about the teams and players is top-notch, and I feel more connected than ever to our Tricolor. I am sure that Colombia will give their best in each match. Let's go Colombia!",
+        "lugar3":"Bogota, Colombia"
+    },
+
+    "footer":{
+        "derechos":"Copyright © 2023. All rights reserved."
+    }
+}

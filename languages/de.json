@@ -1,0 +1,58 @@
+{
+    "header":{
+        "idioma":"Deutsch",
+        "part":"Streichhölzer",
+        "sort":"Werbegeschenke",
+        "cal":"Kalender",
+        "pre":"Vorverkauf",
+        "grup":"Gruppen",
+        "reglas":"Verordnung",
+        "mas":"Weiter",
+        "vid":"Videos"
+    },
+
+    "import":{
+        "vig":"AKTUELLER MEISTER",
+        "sed":"UNSER HAUPTSITZ",
+        "masc":"HAUSTIER"
+    },
+
+    "teams":{
+        "equi":"AUSRÜSTUNG",
+        "pe":"PERU",
+        "ar":"ARGENTINIEN",
+        "bol":"BOLIVIEN",
+        "chil":"CHILE",
+        "col":"KOLUMBIEN",
+        "bra": "BRASILIEN",
+        "ecua":"ECUADOR",
+        "eu":"USA",
+        "jam":"JAMAIKA",
+        "mex":"MEXIKO",
+        "pana":"PANAMA",
+        "para":"PARAGUAY",
+        "uru":"URUGUAY",
+        "ven":"VENEZUELA"
+    },
+
+    "estadiums":{
+        "esta":"STADIEN",
+        "aper":"Öffnung",
+        "fin":"Finale",
+        "capa":"Fähigkeit:"
+    },
+
+    "opi":{
+        "opini":"MEINUNGEN",
+        "cuadro1":"Als peruanischer Fan bin ich von der Seite zur Copa América 2024 begeistert. Sie fängt die Leidenschaft des Turniers perfekt ein, mit unglaublichen Details über Mannschaften und Spieler. Ich freue mich besonders darauf, unserem Team zu folgen und die südamerikanische Begeisterung über diese Plattform zu spüren. Hoch in Peru! Diese Seite ist ein Schatz für alle Fußballfans.",
+        "lugar1":"Lima, Peru",
+        "cuadro2":"Ich bin fasziniert von der Seite zur Copa América 2024. Sie fängt die Essenz des südamerikanischen Fußballs ein und hält mich über alles, was mit der Albiceleste zu tun hat, auf dem Laufenden. Es ist das perfekte Tool, um das Turnier zu verfolgen und unser Team zu unterstützen. Auf geht's nach Argentinien!",
+        "lugar2":"Buenos Aires, Argentinien",
+        "cuadro3":"Was für eine Freude, eine so vollständige Seite über die Copa América 2024 zu finden! Als Kolumbianer liebe ich es, wie diese Plattform uns jedes Detail des Turniers näher bringt. Die Informationen zu den Teams und Spielern sind erstklassig und ich fühle mich unserer Trikolore mehr denn je verbunden. Ich bin sicher, dass Kolumbien in jedem Spiel sein Bestes geben wird. Auf geht's nach Kolumbien!",
+        "lugar3":"Bogota, Kolumbien"
+    },
+
+    "footer":{
+        "derechos":"Copyright © 2023. Alle Rechte vorbehalten."
+    }
+}
